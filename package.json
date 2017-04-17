@@ -1,9 +1,12 @@
 {
   "name": "circletype.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "circle type but with npm",
   "main": "circletype.js",
   "repository": "https://github.com/mike3run/CircleType.git",
   "author": "Peter Hrynkow",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  }
 }
